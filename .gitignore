@@ -1,0 +1,16 @@
+# JetBrains (CLion/IntelliJ)
+.idea/
+*.iml
+
+# CLion CMake build dirs
+cmake-build-*/
+
+# binaries / objects
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.out
